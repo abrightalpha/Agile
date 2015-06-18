@@ -1,0 +1,7 @@
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BL\bin\Debug\Agile.BL.dll
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BL\bin\Debug\Agile.BL.pdb
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BL\obj\Debug\Agile.BL.csprojResolveAssemblyReference.cache
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BL\obj\Debug\Agile.BL.dll
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BL\obj\Debug\Agile.BL.pdb
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BL\bin\Debug\Agile.Common.dll
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BL\bin\Debug\Agile.Common.pdb

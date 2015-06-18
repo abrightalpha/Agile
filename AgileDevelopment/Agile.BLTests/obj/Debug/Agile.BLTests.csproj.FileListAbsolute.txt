@@ -1,0 +1,9 @@
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\bin\Debug\Agile.BLTests.dll
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\bin\Debug\Agile.BLTests.pdb
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\bin\Debug\Agile.BL.dll
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\bin\Debug\Agile.BL.pdb
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\obj\Debug\Agile.BLTests.csprojResolveAssemblyReference.cache
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\obj\Debug\Agile.BLTests.dll
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\obj\Debug\Agile.BLTests.pdb
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\bin\Debug\Agile.Common.dll
+C:\Users\abright\Documents\C# Projects\AgileDevelopment\Agile.BLTests\bin\Debug\Agile.Common.pdb

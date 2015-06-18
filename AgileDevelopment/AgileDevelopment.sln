@@ -5,6 +5,12 @@ VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agile.BL", "Agile.BL\Agile.BL.csproj", "{966480D0-2F36-4A67-9EA1-B23535DB0F42}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTests", "UnitTests", "{39C7CABE-2F97-4C8A-AF8A-4CE957CAE3CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agile.BLTests", "Agile.BLTests\Agile.BLTests.csproj", "{8E28DFC6-5C78-414D-904F-18AE119C843D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agile.Common", "Agile.Common\Agile.Common\Agile.Common.csproj", "{10538D59-8717-4156-A6C6-4D295B8F72B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,8 +21,19 @@ Global
 		{966480D0-2F36-4A67-9EA1-B23535DB0F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{966480D0-2F36-4A67-9EA1-B23535DB0F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{966480D0-2F36-4A67-9EA1-B23535DB0F42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E28DFC6-5C78-414D-904F-18AE119C843D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E28DFC6-5C78-414D-904F-18AE119C843D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E28DFC6-5C78-414D-904F-18AE119C843D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E28DFC6-5C78-414D-904F-18AE119C843D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10538D59-8717-4156-A6C6-4D295B8F72B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10538D59-8717-4156-A6C6-4D295B8F72B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10538D59-8717-4156-A6C6-4D295B8F72B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10538D59-8717-4156-A6C6-4D295B8F72B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E28DFC6-5C78-414D-904F-18AE119C843D} = {39C7CABE-2F97-4C8A-AF8A-4CE957CAE3CC}
 	EndGlobalSection
 EndGlobal
